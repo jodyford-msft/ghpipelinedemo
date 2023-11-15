@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mI0/9BiHb4egCq07ZYI4rKJLn7ABDNsrX6/gplS41oygou9g/JWvA32zIVt2qE2ztR1m+OUV9b8lKzEefDJXiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\azureuser\\Documents\\Visual Studio 2017\\Demo GH\\Demo GH\\Demo GH.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\azureuser\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\azureuser\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\azureuser\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\azureuser\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

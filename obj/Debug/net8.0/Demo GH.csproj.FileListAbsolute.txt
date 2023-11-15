@@ -1,0 +1,30 @@
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\bin\Debug\net8.0\appsettings.json
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\bin\Debug\net8.0\Demo GH.staticwebassets.runtime.json
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\bin\Debug\net8.0\Demo GH.exe
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\bin\Debug\net8.0\Demo GH.deps.json
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\bin\Debug\net8.0\Demo GH.runtimeconfig.json
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\bin\Debug\net8.0\Demo GH.dll
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\bin\Debug\net8.0\Demo GH.pdb
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\Demo GH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\Demo GH.AssemblyInfoInputs.cache
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\Demo GH.AssemblyInfo.cs
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\Demo GH.csproj.CoreCompileInputs.cache
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\Demo GH.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\Demo GH.RazorAssemblyInfo.cache
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\Demo GH.RazorAssemblyInfo.cs
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\staticwebassets\msbuild.Demo GH.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\staticwebassets\msbuild.build.Demo GH.props
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Demo GH.props
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Demo GH.props
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\scopedcss\bundle\Demo GH.styles.css
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\scopedcss\projectbundle\Demo GH.bundle.scp.css
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\Demo GH.dll
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\refint\Demo GH.dll
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\Demo GH.pdb
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\Demo GH.genruntimeconfig.cache
+C:\Users\azureuser\Documents\Visual Studio 2017\Demo GH\Demo GH\obj\Debug\net8.0\ref\Demo GH.dll
